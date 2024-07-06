@@ -5,7 +5,7 @@ Duration:July 1st to August 1st
 
 Overview of the Project
 
-Project:IMDB movies POSITIVE or NEGTIVE
+Project:IMDB movies POSITIVE or NEGATIVE
 ![Screenshot (2)](https://github.com/P-beep-ui/CODETECH-Task2/assets/174769475/58470470-e8b7-48da-92aa-d80d372a3a31)
 
 
